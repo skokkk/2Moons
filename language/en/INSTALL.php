@@ -49,8 +49,8 @@ $LNG['upgrade_required_rev']	= 'The Updater can work only from revision r2579 (2
 
 $LNG['licence_head']			= 'License terms';
 $LNG['licence_desc']			= 'Please read the license terms below. Use the scroll bar to see all the contents of the document';
-$LNG['licence_accept']			= 'To continue the installation of 2Moons, you need to agree to the terms and conditions of lincense of 2Moons';
-$LNG['licence_need_accept']		= 'If you want to continue with the installation, will s that accept the terms of license';
+$LNG['licence_accept']			= 'To continue the installation of 2Moons, you need to agree to the terms and conditions of license of 2Moons';
+$LNG['licence_need_accept']		= 'If you want to continue with the installation, you will need to accept the terms and conditions of license of 2Moons';
 
 $LNG['req_head']				= 'System requirements';
 $LNG['req_desc']				= 'Before the installation proceed, 2Moons will be some tests to verify that your server supports the 2Moons, so ensure that the 2Moons can be installed. Its suggested that you read carefully the results, and do not proceed until all these be checked.';
